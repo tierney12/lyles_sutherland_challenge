@@ -4,8 +4,8 @@ This is my proposed solution for the LylesSutherland graduate software developer
 To run in eclipse:
 
 Open a workspace and select to import a project.
-In the import options: https://i.imgur.com/EGnZHV4.png
-Select 'select archive file,' and select the .zip from this repository. Then select 'Finish.'
+In the import options: first select 'Existing projects into workspace,' https://i.imgur.com/EGnZHV4.png
+Then choose 'select archive file,' and select the .zip from this repository. Then select 'Finish.'
 
 To run tests:
 
