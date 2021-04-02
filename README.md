@@ -9,7 +9,7 @@ Select 'select archive file,' and select the .zip from this repository. Then sel
 
 To run tests:
 
-There are two test files: 'BookingTests.java' and 'ChallengeTests.java'. You can run these by selecting them in the package explorer and clicking the play icon or py pressing F11
+There are two test files: 'BookingTests.java' and 'ChallengeTests.java'. You can run these by selecting them in the package explorer and clicking the play icon or by pressing F11
 https://i.imgur.com/T37VFhj.png
 
 To use the API:
